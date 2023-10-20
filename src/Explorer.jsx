@@ -3,7 +3,7 @@ import Map from './Map';
 import Restaurants from './Restaurants';
 import location from '../fake-data/location.json';
 import restaurants from '../fake-data/restaurants.json';
-import map from './images/map.png';
+import map from '../images/map.png';
 
 class Explorer extends React.Component {
   constructor(props){
